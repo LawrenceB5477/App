@@ -1,0 +1,44 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  background-color: black;
+}
+
+#canvascontainer {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: -2;
+
+}
+.introtext {
+  font-family: 'Ravi Prakash', cursive;
+  text-align: center;
+  color: white;
+}
+
+.introtext h1 {
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.introbttn {
+  text-align: center;
+  margin: 5px 0px;
+}
+
+.introbttngui {
+  font-family: 'Ravi Prakash', cursive;
+  width: 50%;
+  font-size: 2em;
+}
+
+.introtextsec {
+  padding-bottom: 0px;
+}
+
+.campfirepng {
+  height: 150px;
+  display:block;
+  margin: 0 auto;
+}
